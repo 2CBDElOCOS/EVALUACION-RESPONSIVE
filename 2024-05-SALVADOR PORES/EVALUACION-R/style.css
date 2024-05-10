@@ -1,0 +1,32 @@
+.Encabezado{
+
+    background-color: aliceblue;
+
+}
+
+.COL1{
+    text-align: center;
+
+}
+
+.IMAGEN1{
+    text-align: center;
+}
+
+.IMAGEN2{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 300px;
+}
+.container-redes{
+    margin-left:  20px;
+    margin-right: 20px;
+
+}
+.footer{
+    margin: 0%;
+    background-color: antiquewhite;
+}
+body{
+    background-color: aliceblue;
+}
